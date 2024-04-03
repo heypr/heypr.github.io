@@ -9,6 +9,7 @@ const config = {
   url: 'https://heypr.dev',
   baseUrl: '/',
   projectName: 'heypr',
+  organizationName: 'heypr',
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
