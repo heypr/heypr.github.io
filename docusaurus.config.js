@@ -9,6 +9,7 @@ const config = {
   url: 'https://heypr.dev',
   baseUrl: '/',
   projectName: 'heypr.github.io',
+  deploymentBranch: 'gh-pages',
   organizationName: 'heypr',
   i18n: {
     defaultLocale: 'en',
