@@ -11,6 +11,7 @@ const config = {
   projectName: 'heypr.github.io',
   deploymentBranch: 'gh-pages',
   organizationName: 'heypr',
+  trailingSlash: false,
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
