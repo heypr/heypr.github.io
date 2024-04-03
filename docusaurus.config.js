@@ -8,7 +8,7 @@ const config = {
 
   url: 'https://heypr.dev',
   baseUrl: '/',
-  projectName: 'heypr',
+  projectName: 'heypr.github.io',
   organizationName: 'heypr',
   i18n: {
     defaultLocale: 'en',
